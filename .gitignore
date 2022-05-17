@@ -1,0 +1,5 @@
+# Project exclude paths
+/client/target/
+/magasin/target/
+/out/
+/siege/target/
